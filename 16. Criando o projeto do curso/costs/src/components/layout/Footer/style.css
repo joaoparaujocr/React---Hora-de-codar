@@ -1,0 +1,24 @@
+footer {
+  background-color: rgb(43, 43, 43);
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 2%;
+  flex-direction: column;
+}
+
+h3 {
+  color: gold;
+}
+
+.social_cons {
+  display: flex;
+}
+
+.social_icons svg {
+  font-size: 20px;
+  color: white;
+  margin: 10px 20px;
+  cursor: pointer;
+}
