@@ -1,6 +1,6 @@
-import LinkButton from '../../layout/LinkButton';
+import LinkButton from '../../layout/LinkButton/LinkButton';
 import savings from './../../../img/savings.svg';
-import './style.css';
+import './Home.css';
 
 export default function Home() {
   return (

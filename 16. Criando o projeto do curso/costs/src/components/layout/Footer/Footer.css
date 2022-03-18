@@ -8,17 +8,20 @@ footer {
   flex-direction: column;
 }
 
-h3 {
-  color: gold;
-}
-
 .social_cons {
   display: flex;
 }
 
 .social_icons svg {
-  font-size: 20px;
+  font-size: 25px;
   color: white;
   margin: 10px 20px;
   cursor: pointer;
 }
+
+span {
+  color: gold;
+  font-weight: bolder;
+}
+
+footer h3 { color: white; }

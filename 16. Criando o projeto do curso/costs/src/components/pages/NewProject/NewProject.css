@@ -1,0 +1,9 @@
+.section_new_project {
+    max-width: 450px;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+.section_new_project h1 { margin-bottom: .5em; }
+
+.section_new_project p { color: #7b7b7b; }

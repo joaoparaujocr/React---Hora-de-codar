@@ -1,16 +1,15 @@
 import { FaFacebook, FaTwitter, FaInstagram } from 'react-icons/fa'
-import './style.css';
+import './Footer.css';
 
 export default function Footer() {
   return (
     <footer>
-      <h3>Costs ©</h3>
-
       <div className="social_icons">
         <FaFacebook />
         <FaTwitter />
         <FaInstagram />
       </div>
+      <h3><span>Costs</span> ©</h3>
     </footer>
   )
 }
